@@ -1,3 +1,13 @@
+## 🎮 TicTacToe
+
+![TicTacToe](https://user-images.githubusercontent.com/39142850/72843080-21c1a800-3cdd-11ea-95cd-5f5835227b1c.gif)
+
+> React  
+
+> a game in which two players alternately put crosses and circles in one of the compartments of a square grid of nine spaces.
+
+<br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
