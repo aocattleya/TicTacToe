@@ -1,12 +1,21 @@
 ## 🎮 TicTacToe
 
-![TicTacToe](https://user-images.githubusercontent.com/39142850/72843080-21c1a800-3cdd-11ea-95cd-5f5835227b1c.gif)
+![TicTacToe](https://user-images.githubusercontent.com/39142850/73108702-584d2c00-3f44-11ea-86ba-f6b11e0a6480.gif)
 
-> React  
+**React**  
 
 > a game in which two players alternately put crosses and circles in one of the compartments of a square grid of nine spaces.
 
-<br>
+１、Play tic-tac-toe  
+２、Displayed when finalized  
+３、History is saved as the game progresses  
+４、Review the start history and refer to the previous state of the board  
+
+### Reference
+
+[Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
